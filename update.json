@@ -1,8 +1,8 @@
 {
- "versionCode": 8,
- "versionName": "0.6.1",
- "apk": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/v0.6.1/Jiyarah-0.6.1.apk",
- "notes_en": "The place list can now update without a new app version; village and union locations; Urs dates with their source; Wikipedia and Banglapedia sources; 2,688 places in Bangladesh.",
- "notes_bn": "এখন অ্যাপ আপডেট ছাড়াই মাজারের তালিকা নতুন হতে পারবে; গ্রাম ও ইউনিয়ন পর্যায়ের অবস্থান; সূত্রসহ ওরসের তারিখ; উইকিপিডিয়া ও বাংলাপিডিয়ার তথ্য; বাংলাদেশের ২৬৮৮টি স্থান।",
+ "versionCode": 9,
+ "versionName": "0.6.2",
+ "apk": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/v0.6.2/Jiyarah-0.6.2.apk",
+ "notes_en": "Shrines outside Bangladesh: 1,187 in 44 countries, on the Countries pages, search and map; More apps opens the Sufigraphy page on Google Play.",
+ "notes_bn": "বাংলাদেশের বাইরের মাজার: ৪৪টি দেশের ১১৮৭টি, দেশের পাতা, খোঁজা ও ম্যাপে; আরও অ্যাপে চাপলে গুগল প্লেতে সুফিগ্রাফির পাতা খোলে।",
  "published": "2026-11-24"
 }
