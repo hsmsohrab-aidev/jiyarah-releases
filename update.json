@@ -1,8 +1,8 @@
 {
- "versionCode": 12,
- "versionName": "0.6.5",
- "apk": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/v0.6.5/Jiyarah-0.6.5.apk",
- "notes_en": "Urs calendar with 105 Urs dates; 4,613 shrines in 47 other countries; 3,039 in Bangladesh with Maizbhandar; easier Send information with one tap 'I am here' location; clearer Bengali throughout.",
- "notes_bn": "ওরস ক্যালেন্ডারে ১০৫টি ওরসের তারিখ; বাংলাদেশের বাইরে ৪৭টি দেশে ৪,৬১৩টি মাজার; মাইজভান্ডারসহ বাংলাদেশে ৩,০৩৯টি মাজার; এক চাপে \"আমি এখন এখানে\" দিয়ে সহজে তথ্য পাঠানো; পুরো অ্যাপে আরও সহজ ও সুন্দর বাংলা।",
+ "versionCode": 13,
+ "versionName": "0.6.6",
+ "apk": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/v0.6.6/Jiyarah-0.6.6.apk",
+ "notes_en": "The app now looks for a new version every time you open it. Includes everything in 0.6.5: 105 Urs dates, 4,613 shrines in 47 other countries, easier Send information, clearer Bengali.",
+ "notes_bn": "এখন অ্যাপ খুললেই প্রতিবার নতুন ভার্সন আছে কি না দেখে। সঙ্গে ০.৬.৫ এর সবকিছু: ১০৫টি ওরসের তারিখ, ৪৭টি দেশে ৪,৬১৩টি মাজার, সহজে তথ্য পাঠানো, আরও সুন্দর বাংলা।",
  "published": "2026-11-26"
 }
