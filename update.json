@@ -1,8 +1,8 @@
 {
- "versionCode": 9,
- "versionName": "0.6.2",
- "apk": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/v0.6.2/Jiyarah-0.6.2.apk",
- "notes_en": "Shrines outside Bangladesh: 1,187 in 44 countries, on the Countries pages, search and map; More apps opens the Sufigraphy page on Google Play.",
- "notes_bn": "বাংলাদেশের বাইরের মাজার: ৪৪টি দেশের ১১৮৭টি, দেশের পাতা, খোঁজা ও ম্যাপে; আরও অ্যাপে চাপলে গুগল প্লেতে সুফিগ্রাফির পাতা খোলে।",
- "published": "2026-11-24"
+ "versionCode": 12,
+ "versionName": "0.6.5",
+ "apk": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/v0.6.5/Jiyarah-0.6.5.apk",
+ "notes_en": "Urs calendar with 105 Urs dates; 4,613 shrines in 47 other countries; 3,039 in Bangladesh with Maizbhandar; easier Send information with one tap 'I am here' location; clearer Bengali throughout.",
+ "notes_bn": "ওরস ক্যালেন্ডারে ১০৫টি ওরসের তারিখ; বাংলাদেশের বাইরে ৪৭টি দেশে ৪,৬১৩টি মাজার; মাইজভান্ডারসহ বাংলাদেশে ৩,০৩৯টি মাজার; এক চাপে \"আমি এখন এখানে\" দিয়ে সহজে তথ্য পাঠানো; পুরো অ্যাপে আরও সহজ ও সুন্দর বাংলা।",
+ "published": "2026-11-26"
 }
