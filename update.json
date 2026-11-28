@@ -1,8 +1,8 @@
 {
- "versionCode": 15,
- "versionName": "0.6.8",
- "apk": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/v0.6.8/Jiyarah-0.6.8.apk",
- "notes_en": "New Home screen: numbers at a glance, search, something new each day, places around you, and browsing from your own country and division. 4,803 shrines in 69 other countries.",
- "notes_bn": "নতুন হোম পেজ: এক নজরে সংখ্যা, খোঁজা, প্রতিদিন নতুন কিছু, আপনার আশেপাশের মাজার, আর নিজের দেশ ও বিভাগ থেকে ঘুরে দেখা। বিদেশের ৬৯টি দেশে ৪,৮০৩টি মাজার।",
+ "versionCode": 16,
+ "versionName": "0.7.0",
+ "apk": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/v0.7.0/Jiyarah-0.7.0.apk",
+ "notes_en": "New design: one card shows the nearest shrine and the way there, a street map, the virtue of ziyarat with 109 sourced sayings on the Practice page, and new Search, My ziyarat, Support and About pages.",
+ "notes_bn": "নতুন নকশা: একটি বক্সেই নিকটবর্তী মাজার আর সেখানে যাওয়ার পথ, রাস্তাঘাটসহ ম্যাপ, আমল পাতায় সূত্রসহ জিয়ারতের ফজিলতের ১০৯টি কালাম, আর নতুন সার্চ, আমার জিয়ারত, সহায়তা ও পরিচিতি পাতা।",
  "published": "2026-11-28"
 }
