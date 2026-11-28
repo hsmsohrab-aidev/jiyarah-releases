@@ -1,7 +1,7 @@
 {
- "published": "2026-11-26",
- "notes_en": "3,000 more shrines in 27 countries from OpenStreetMap",
- "notes_bn": "২৭টি দেশে আরও ৩,০০০ মাজার ও দরগাহ",
+ "published": "2026-11-28",
+ "notes_en": "4,803 shrines in 69 countries outside Bangladesh; Bangladesh list recounted to 2,920",
+ "notes_bn": "বাংলাদেশের বাইরে ৬৯টি দেশে ৪,৮০৩টি মাজার; বাংলাদেশের তালিকা নতুন করে গোনা হয়েছে, মোট ২,৯২০টি",
  "dataVersion": 20261126214602,
  "count": 3035,
  "minApp": 0,
@@ -21,14 +21,14 @@
   }
  },
  "world": {
-  "version": 20261126221351,
-  "count": 4613,
+  "version": 20261127115617,
+  "count": 4803,
   "minApp": 0,
-  "generated_at": "2026-11-26T22:13:51Z",
+  "generated_at": "2026-11-27T11:56:17Z",
   "file": {
-   "url": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/world-20261126221351/places_world.json.gz",
-   "size": 223222,
-   "sha256": "bb92e8412685f0bd76f05eb59fb8893514a26e62cc7be883a6127ee7f826b1ab",
+   "url": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/world-20261127115617/places_world.json.gz",
+   "size": 263125,
+   "sha256": "9cf874768845e7ede96871d3bdedbb8d266779d7b95332b3c838c7603686a953",
    "gzip": true
   }
  }
