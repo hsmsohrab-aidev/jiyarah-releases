@@ -1,8 +1,8 @@
 {
- "versionCode": 16,
- "versionName": "0.7.0",
- "apk": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/v0.7.0/Jiyarah-0.7.0.apk",
- "notes_en": "New design: one card shows the nearest shrine and the way there, a street map, the virtue of ziyarat with 109 sourced sayings on the Practice page, and new Search, My ziyarat, Support and About pages.",
- "notes_bn": "নতুন নকশা: একটি বক্সেই নিকটবর্তী মাজার আর সেখানে যাওয়ার পথ, রাস্তাঘাটসহ ম্যাপ, আমল পাতায় সূত্রসহ জিয়ারতের ফজিলতের ১০৯টি কালাম, আর নতুন সার্চ, আমার জিয়ারত, সহায়তা ও পরিচিতি পাতা।",
+ "versionCode": 17,
+ "versionName": "0.7.1",
+ "apk": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/v0.7.1/Jiyarah-0.7.1.apk",
+ "notes_en": "New tabs: Ziyarat (passport, practice, plans and trip, saved, and the virtue of ziyarat) and a compact Settings tab. The design's Bengali font, Arabic in Amiri, clear digits, the Map page as designed, and a crash fix.",
+ "notes_bn": "নতুন ট্যাব: জিয়ারত (পাসপোর্ট, আমল, নিয়ত ও সফর, প্রিয় জায়গা আর জিয়ারতের ফজিলত) ও গোছানো সেটিংস। নকশার বাংলা হরফ, আরবিতে Amiri, স্পষ্ট সংখ্যা, নকশামতো ম্যাপ পাতা, আর একটি সমস্যার সমাধান।",
  "published": "2026-11-28"
 }
