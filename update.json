@@ -1,8 +1,8 @@
 {
- "versionCode": 13,
- "versionName": "0.6.6",
- "apk": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/v0.6.6/Jiyarah-0.6.6.apk",
- "notes_en": "The app now looks for a new version every time you open it. Includes everything in 0.6.5: 105 Urs dates, 4,613 shrines in 47 other countries, easier Send information, clearer Bengali.",
- "notes_bn": "এখন অ্যাপ খুললেই প্রতিবার নতুন ভার্সন আছে কি না দেখে। সঙ্গে ০.৬.৫ এর সবকিছু: ১০৫টি ওরসের তারিখ, ৪৭টি দেশে ৪,৬১৩টি মাজার, সহজে তথ্য পাঠানো, আরও সুন্দর বাংলা।",
- "published": "2026-11-26"
+ "versionCode": 15,
+ "versionName": "0.6.8",
+ "apk": "https://github.com/hsmsohrab-aidev/jiyarah-releases/releases/download/v0.6.8/Jiyarah-0.6.8.apk",
+ "notes_en": "New Home screen: numbers at a glance, search, something new each day, places around you, and browsing from your own country and division. 4,803 shrines in 69 other countries.",
+ "notes_bn": "নতুন হোম পেজ: এক নজরে সংখ্যা, খোঁজা, প্রতিদিন নতুন কিছু, আপনার আশেপাশের মাজার, আর নিজের দেশ ও বিভাগ থেকে ঘুরে দেখা। বিদেশের ৬৯টি দেশে ৪,৮০৩টি মাজার।",
+ "published": "2026-11-28"
 }
